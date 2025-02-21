@@ -1,4 +1,16 @@
-/* Created by: Mr. Coxall
+/* Created by: Gabriela alferez ayala
 * Created on: Sep 2020
 * This file contains the CSS for index.html
-*/
+*/body {
+  background-color: rgb(174, 211, 247);
+}
+
+h1 {
+  color: hsla(200, 95%, 83%, 0.611);
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
